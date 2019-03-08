@@ -1,6 +1,6 @@
 # Basic Genetic Algorithm
 
-Copyright(c) 2017 Luis Ariza (lfarizav@gmail.com)
+Copyright(c) 2017 Luis Felipe Ariza Vesga (lfarizav@gmail.com)
 
 ## Introduction
 
