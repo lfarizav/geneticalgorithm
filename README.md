@@ -12,7 +12,7 @@ I hope this code will contribute to you to solve many basic questions about prog
 1.  Use `gcc -o algorithm test_algorithm.c algorithm.c population.c individual.c -lm` to build the executable.
 2.  Use `./algorithm` to run the algorithm.
 
-Note: This code do not use SSE2/AVX intrinsic instruction (SIMD).
+Note: This code do not use SSE2/AVX intrinsic instructions (SIMD).
 
 ## Results
 
